@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-//Okay lo que voy a hacer es lo siguente 
